@@ -10,9 +10,10 @@ By extracting Mel-Frequency Cepstral Coefficients (MFCCs), the model effectively
 
 The model achieved an 85% overall accuracy on the test set
 
-  Metric                       Value
 Test Accuracy                   85%
+
 Best Performing         ClassClassical (0.97 F1-score)
+
 Frameworks              PyTorch, Librosa, Scikit-Learn
        
 # Confusion Matrix:
