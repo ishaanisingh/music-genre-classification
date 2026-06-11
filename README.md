@@ -1,14 +1,22 @@
-Music Genre Classification using Deep Learning
+#Music Genre Classification using Deep 
+
 A robust Deep Learning pipeline that classifies audio tracks into 10 distinct genres using Convolutional Neural Networks (CNNs) and Mel-spectrogram analysis.
 
 🚀 Project Overview
 This project transforms raw audio files into visual representations (Mel-spectrograms) to leverage the power of Convolutional Neural Networks (CNNs) for genre classification.
 By extracting Mel-Frequency Cepstral Coefficients (MFCCs), the model effectively captures both timbral and rhythmic characteristics of different music genres.
-<img width="955" height="411" alt="image" src="https://github.com/user-attachments/assets/47ea3308-32aa-4f8a-bcd7-3b698ecbea96" />
 
+📊 Performance Metrics
 
+The model achieved an 85% overall accuracy on the test set
+
+  Metric                       Value
+Test Accuracy                   85%
+Best Performing         ClassClassical (0.97 F1-score)
+Frameworks              PyTorch, Librosa, Scikit-Learn
+       
 Confusion Matrix:
-<img width="1000" height="800" alt="confusion_matrix" src="https://github.com/user-attachments/assets/b45a0329-0a2c-487c-98f1-ec26d3fa326b" />
+<img width="500" height="500" alt="confusion_matrix" src="https://github.com/user-attachments/assets/b45a0329-0a2c-487c-98f1-ec26d3fa326b" />
 
 
 🛠 Technical Pipeline
