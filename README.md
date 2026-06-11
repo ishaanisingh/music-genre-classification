@@ -8,13 +8,13 @@ By extracting Mel-Frequency Cepstral Coefficients (MFCCs), the model effectively
 
 # 📊 Performance Metrics
 
-The model achieved an 85% overall accuracy on the test set
+The model achieved an 85% overall accuracy on the test set.
 
-Test Accuracy                   85%
+Test Accuracy   -                85%
 
-Best Performing         ClassClassical (0.97 F1-score)
+Best Performing    -     ClassClassical (0.97 F1-score)
 
-Frameworks              PyTorch, Librosa, Scikit-Learn
+Frameworks       -       PyTorch, Librosa, Scikit-Learn
        
 # Confusion Matrix:
 <img width="500" height="500" alt="confusion_matrix" src="https://github.com/user-attachments/assets/b45a0329-0a2c-487c-98f1-ec26d3fa326b" />
